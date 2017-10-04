@@ -1,0 +1,477 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sender/index.html",
+			"settings":
+			{
+				"buffer_size": 1454,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sender/main.js",
+			"settings":
+			{
+				"buffer_size": 2404,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "receiver/index.html",
+			"settings":
+			{
+				"buffer_size": 652,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "receiver/receiver.html",
+			"settings":
+			{
+				"buffer_size": 3859,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sender/chromehellotext.html",
+			"settings":
+			{
+				"buffer_size": 6010,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: List ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ygolan/GitHub/chromecast-dashboard",
+		"/Users/ygolan/GitHub/chromecast-dashboard/receiver",
+		"/Users/ygolan/GitHub/chromecast-dashboard/sender"
+	],
+	"file_history":
+	[
+		"/Users/ygolan/Downloads/deliveries.csv-clean.csv",
+		"/Users/ygolan/GitHub/docker-prediction-io/readme.md",
+		"/Users/ygolan/GitHub/docker-prediction-io/docker-compose.yml",
+		"/Users/ygolan/GitHub/Programmers-Guide-to-Machine-Intelligence-with-PredictionIO/codeSamples/ch1/musicRecommender/engine.json",
+		"/Users/ygolan/GitHub/Programmers-Guide-to-Machine-Intelligence-with-PredictionIO/codeSamples/ch1/musicRecommender/src/main/scala/ALSAlgorithm.scala",
+		"/Users/ygolan/GitHub/Programmers-Guide-to-Machine-Intelligence-with-PredictionIO/codeSamples/ch1/musicRecommender/src/main/scala/Engine.scala",
+		"/Users/ygolan/GitHub/Programmers-Guide-to-Machine-Intelligence-with-PredictionIO/README.md",
+		"/Users/ygolan/GitHub/Programmers-Guide-to-Machine-Intelligence-with-PredictionIO/codeSamples/ch1/engine.json",
+		"/Users/ygolan/GitHub/Programmers-Guide-to-Machine-Intelligence-with-PredictionIO/codeSamples/ch1/_engine.json.backup",
+		"/Users/ygolan/GitHub/Programmers-Guide-to-Machine-Intelligence-with-PredictionIO/codeSamples/ch1/import.py",
+		"/Users/ygolan/GitHub/docker-prediction-io/access_keys.txt",
+		"/Users/ygolan/GitHub/docker-prediction-io/docker_volumes/engine.json",
+		"/Users/ygolan/GitHub/docker-prediction-io/docker_volumes/hbase/hbase-server-config.xml",
+		"/Users/ygolan/GitHub/docker-prediction-io/docker_volumes/pio-env.sh",
+		"/Users/ygolan/GitHub/docker-prediction-io/prediction.io/Dockerfile",
+		"/Users/ygolan/Downloads/computer-software-1-200.valids.csv",
+		"/Users/ygolan/Desktop/cold_emails_query.json",
+		"/Users/ygolan/Downloads/cold_emails-it-51-200.csv",
+		"/Users/ygolan/Downloads/cold_emails-computer-software.csv",
+		"/Users/ygolan/Downloads/computer-software-1-200.csv",
+		"/Users/ygolan/Downloads/cold_emails-it-51-200.csv-clean.csv",
+		"/Users/ygolan/Desktop/keywords_40.txt",
+		"/Users/ygolan/Downloads/www-cloudadvice-com_20170928T140757Z_SearchAnalytics.csv",
+		"/Users/ygolan/Downloads/dqxulfoihjcepsfltxdmnqclypmt.csv",
+		"/Users/ygolan/Desktop/answer.txt",
+		"/Users/ygolan/Downloads/201-500.it.csv",
+		"/Users/ygolan/Downloads/201-500.it.valids.csv",
+		"/Users/ygolan/Downloads/501-1000.it.valids.csv",
+		"/Users/ygolan/Desktop/linkedin_country_code_lookup.csv",
+		"/Users/ygolan/Desktop/country_location",
+		"/Users/ygolan/Desktop/linkedin_country_code_lookup",
+		"/Users/ygolan/Downloads/11-50.new.valids.csv",
+		"/Users/ygolan/Downloads/all.new2.csv",
+		"/Users/ygolan/Downloads/all.new3.csv",
+		"/Users/ygolan/Downloads/11-50.new.csv",
+		"/Users/ygolan/Downloads/all.new.csv",
+		"/Users/ygolan/Downloads/11-50.valids.csv",
+		"/Users/ygolan/Downloads/11-50.all.valid.csv",
+		"/Users/ygolan/Downloads/11-50.csv",
+		"/Users/ygolan/Downloads/11-50 (1).csv",
+		"/Users/ygolan/Downloads/11-50.all.csv",
+		"/Users/ygolan/Desktop/newsletter-layout.txt",
+		"/Users/ygolan/Downloads/customers_24_08_17.csv",
+		"/Users/ygolan/Downloads/it-1001-5000.valids.csv",
+		"/Users/ygolan/Downloads/it-1001-5000.csv",
+		"/Users/ygolan/Downloads/cloudadvisor-production_2017-07-17_162858_2017-08-16_162858.log",
+		"/Users/ygolan/Downloads/cloudadvisor-production_2017-08-15_144555_2017-08-16_144555.log",
+		"/Users/ygolan/Downloads/sitemap.topics (9).xml",
+		"/Users/ygolan/Downloads/cloudadvisor_63494b00cc244cceb62c668f22baaef6a4e2b33e_gemnasium_auto_update (1)/Gemfile",
+		"/Users/ygolan/Downloads/cloudadvisor_63494b00cc244cceb62c668f22baaef6a4e2b33e_gemnasium_auto_update (3)/Gemfile",
+		"/Users/ygolan/Downloads/cloudadvisor_63494b00cc244cceb62c668f22baaef6a4e2b33e_gemnasium_auto_update (3)/Gemfile.lock",
+		"/Users/ygolan/Downloads/cloudadvisor_63494b00cc244cceb62c668f22baaef6a4e2b33e_gemnasium_auto_update (1)/Gemfile.lock",
+		"/Library/PostgreSQL/9.5/pg_env.sh",
+		"/Users/ygolan/Desktop/social123_emails.csv",
+		"/Users/ygolan/Desktop/social123_1000_success_status2.csv",
+		"/Users/ygolan/Desktop/social123_1000_success_status.csv",
+		"/Users/ygolan/GitHub/cloudadvisor-spark/profiles.csv",
+		"/Users/ygolan/GitHub/cloudadvisor-spark/convertcsv.csv",
+		"/Users/ygolan/GitHub/cloudadvisor-spark/atlas-filtered-cloudadvice-emails.all.csv",
+		"/Users/ygolan/Downloads/sitemap.tags.dir (1).xml",
+		"/Users/ygolan/Desktop/atlas-filtered-cloudadvice-emails.csv",
+		"/Users/ygolan/GitHub/cloudadvisor/tmp/sitemaps/sitemap.static.xml",
+		"/Users/ygolan/Downloads/fnpuoxtomfcbxhlnogqnbdxjdjfb.csv",
+		"/Users/ygolan/Downloads/article 101.html",
+		"/Users/ygolan/Downloads/preredenr tags",
+		"/Users/ygolan/Downloads/cloudadvisor-production_2017-04-21_062322_2017-05-21_062322.log",
+		"/Users/ygolan/Downloads/cloudadvice_crawl_25_may_2017.log",
+		"/Users/ygolan/Downloads/sitemap.tags (5).xml",
+		"/Users/ygolan/Downloads/sitemap.tags (4).xml",
+		"/Users/ygolan/Downloads/cloudadvisor-production_2017-04-08_104031_2017-05-08_104031.log",
+		"/opt/cisco/anyconnect/profile/Gartner_Cont_cert.xml",
+		"/opt/cisco/anyconnect/profile/Gartner_AC_Profile_RDP.xml",
+		"/opt/cisco/anyconnect/profile/AnyConnectProfile.xsd",
+		"/Users/ygolan/GitHub/prerender/server.js",
+		"/Users/ygolan/Downloads/ofwrgwrkrfazoeadzvsieofzfqod.csv",
+		"/Users/ygolan/Downloads/sitemap.profiles.xml",
+		"/Users/ygolan/.rvm/gems/ruby-2.3.0/extensions/x86_64-darwin-15/2.3.0/nokogiri-1.6.8.1/mkmf.log",
+		"/Users/ygolan/Downloads/cloudadvisor-crawl_2017-04-04.copy.csv",
+		"/Users/ygolan/Downloads/sitemap.xml",
+		"/Users/ygolan/Desktop/getapp.txt",
+		"/Users/ygolan/Documents/CloudAdvice releases backlog.txt",
+		"/Users/ygolan/Documents/mixpanel_api",
+		"/Users/ygolan/Downloads/ldyrkaglatyjdtcneknffdmelwfz.csv",
+		"/Users/ygolan/Documents/values.txt",
+		"/Users/ygolan/Documents/test_partial.csv",
+		"/Users/ygolan/test1.txt",
+		"/Users/ygolan/test.txt",
+		"/Users/ygolan/Documents/tags-word-cloud.csv",
+		"/Users/ygolan/Documents/tags-cloud.txt",
+		"/Users/ygolan/Desktop/statistics.rake",
+		"/Users/ygolan/GitHub/cloudadvisor/fake_referrer2.js",
+		"/Users/ygolan/GitHub/cloudadvisor/fake_referrer.js",
+		"/Users/ygolan/GitHub/cloudadvisor/users.csv",
+		"/Applications/TeamViewer.app/Contents/PkgInfo",
+		"/Applications/TeamViewer.app/Contents/Info.plist",
+		"/Users/ygolan/GitHub/dm-admin/protractor/test/unit/modules/categories/categoriesController.test.js",
+		"/Users/ygolan/Desktop/category.coffee",
+		"/Users/ygolan/GitHub/cloudadvisor/app/assets/javascripts/angular/init/app-constants.coffee.erb",
+		"/Users/ygolan/git/app/client/assets/js/SwApiPropertyDirective.js",
+		"/Users/ygolan/git/app/client/assets/js/SwApiService.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sender/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								636,
+								636
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sender/main.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "receiver/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								369,
+								369
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "receiver/receiver.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3859,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3020,
+								3022
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sender/chromehellotext.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5143,
+								5145
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "chromecast-dashboard.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
